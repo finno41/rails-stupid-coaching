@@ -1,3 +1,19 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
-// You can use Sass (SCSS) here: https://sass-lang.com/
+// // You can use Sass (SCSS) here: https://sass-lang.com/
+
+.question {
+  background-color: aquamarine;
+  height: 50px;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.coach {
+  background-color: rgb(218, 111, 40);
+  height: 50px;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
